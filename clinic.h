@@ -1,5 +1,5 @@
-#ifndef CLINIC.H
-#define CLINIC.H
+#ifndef CLINIC
+#define CLINIC
 
 void admin_mode();
 void add_p();
